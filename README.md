@@ -9,3 +9,4 @@ J1: Anschluss Ausseborder
 J2: Anschluss Solarzelle, Anschluss MPPT-Regler
 
 ![grafik](https://github.com/gerryvel/AB_NT/blob/master/photo_2022-05-20_15-44-02.jpg)
+![grafik](https://github.com/gerryvel/AB_NT/blob/gerryvel-patch-1/photo_2022-05-20_15-44-02.jpg)
