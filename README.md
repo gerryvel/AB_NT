@@ -9,8 +9,11 @@ J1: Anschluss Ausseborder
 J2: Anschluss Solarzelle, Anschluss MPPT-Regler
 
 Bauteile: 
+
 2x TRU COMPONENTS TC-B40C7000A Brückengleichrichter SIL-4 80 V 7 A Einphasig 
+
 4x Vishay 2222 021 26222 Elektrolyt-Kondensator axial bedrahtet 2200 µF 25 V 20 %
+
 1x Bopla CN 22 AK-SET Hutschienen-Gehäuse 22.5 x 75 x 109.5 ABS Lichtgrau
 
 Platine:
