@@ -8,4 +8,4 @@ Die Schaltung ist für die Spannungsebene 12 V ausgelegt.
 J1: Anschluss Ausseborder
 J2: Anschluss Solarzelle, Anschluss MPPT-Regler
 
-![grafik](photo_2022-05-20_15-44-02.jpg)
+![grafik](/blob/9947dddd24ee93de776b1cf97da788a55b5b524c/photo_2022-05-20_15-44-02.jpg)
