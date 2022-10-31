@@ -6,7 +6,7 @@ Die Schaltung ist für die Spannungsebene 12 V ausgelegt.
 ![grafik](https://user-images.githubusercontent.com/17195231/169540587-189c22fa-56fe-4a53-9ba8-19d2e00dac81.png)
 
 # Anschlüsse
-- J1: Anschluss Ausseborder
+- J1: Anschluss Aussenborder
 - J2: Anschluss Solarzelle, Anschluss MPPT-Regler
 
 # Bauteile
