@@ -1,5 +1,5 @@
 ## AB_NT
-# Aussenborder Netzteilverteiler
+# Aussenborder Netzverteiler
 
 Der Verteiler sammelt und trennt die Eingangsspannungen vom Aussenborder und von dem Solarpanel, glättet diese und gibt die Spannung für den Solarregler aus.
 Die Schaltung ist für die Spannungsebene 12 V ausgelegt. 
