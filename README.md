@@ -15,10 +15,11 @@ Die Schaltung ist für die Spannungsebene 12 V ausgelegt.
 - 4x Vishay 2222 021 26222 Elektrolyt-Kondensator axial bedrahtet 2200 µF 25 V 20 %
 - 1x Bopla CN 22 AK-SET Hutschienen-Gehäuse 22.5 x 75 x 109.5 ABS Lichtgrau
 
-# Platine
+# PCB
 
 Die KiCAD Daten findet man im Releases.
 - https://github.com/gerryvel/AB_NT/releases/
+- oder bestelt bei Aisler [Link](https://aisler.net/p/VAKKHOUS)
 
 ![grafik](https://user-images.githubusercontent.com/17195231/169543651-85c71c2d-e99f-4e4c-bcd1-322d907698f5.png)
 
