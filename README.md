@@ -20,7 +20,8 @@ Die Schaltung ist für die Spannungsebene 12 V ausgelegt.
 
 Die KiCAD Daten findet man im Releases.
 - https://github.com/gerryvel/AB_NT/releases/
-- oder bestellt bei Aisler [Link](https://aisler.net/p/VAKKHOUS)
+- oder bestellt bei Aisler [Link](https://aisler.net/p/VAKKHOUS). 
+Achtung! Revision 3 der Platine ist wie gezeigt, die letzte Revision ist mit Elkos Radial.
 
 ![grafik](https://github.com/gerryvel/AB_NT/assets/17195231/2bebfeb4-3bdf-4147-8329-a47c1b2e4617)
 
