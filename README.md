@@ -13,7 +13,8 @@ Die Schaltung ist für die Spannungsebene 12 V ausgelegt.
 # Bauteile
 
 - 2x TRU COMPONENTS TC-B40C7000A Brückengleichrichter SIL-4 80 V 7 A Einphasig 
-- 4x Vishay 2222 021 26222 Elektrolyt-Kondensator axial bedrahtet 2200 µF 25 V 20 %
+- 4x Vishay 2222 021 26222 Elko axial 2200 µF 25 V 20 % (PCB Version 1)
+- 4x Elko, radial, 2200 µF, 25 V, 105°, RM 5 (PCB Version 2)
 - 1x Bopla CN 22 AK-SET Hutschienen-Gehäuse 22.5 x 75 x 109.5 ABS Lichtgrau
 
 # PCB
@@ -27,7 +28,10 @@ Achtung! Revision 3 der Platine ist wie gezeigt, die letzte Revision ist mit Elk
 
 
 # Fotos montiert:
-
+- PCB Version 1:
 ![photo_2022-05-20_15-44-02](https://github.com/gerryvel/AB_NT/assets/17195231/9bf327b8-0fac-472d-9c1e-c1e1c6e71d7b)
 ![photo_2022-05-20_15-44-08](https://github.com/gerryvel/AB_NT/assets/17195231/32e9ef67-bb57-405e-8dab-d5449404cae9)
 ![photo_2022-05-20_15-44-13](https://github.com/gerryvel/AB_NT/assets/17195231/111818d2-6909-4b62-94db-9f481d0633d1)
+- PCB Version 2:
+![image](https://github.com/user-attachments/assets/8057c785-301f-4c41-9247-f450cb4c58b8)
+
