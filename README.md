@@ -1,4 +1,9 @@
 # AB_NT
+
+![Relaise](https://img.shields.io/github/release-date/gerryvel/AB_NT?)
+![lastcommit](https://img.shields.io/github/last-commit/gerryvel/AB_NT)
+![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)
+
 ## Aussenborder Netzverteiler
 
 Der Verteiler sammelt und trennt die Eingangsspannungen vom Aussenborder und von dem Solarpanel, glättet diese und gibt die Spannung für den Solarregler aus.
