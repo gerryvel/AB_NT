@@ -3,7 +3,7 @@
 ![KiCad](https://img.shields.io/badge/KiCad-darkblue?logo=KiCad)
 ![Relaise](https://img.shields.io/github/release-date/gerryvel/AB_NT?)
 ![lastcommit](https://img.shields.io/github/last-commit/gerryvel/AB_NT)
-![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)
+[![OBP](https://img.shields.io/badge/Sailing_with-OpenBoatsProjects-blue)](https://open-boat-projects.org/de/)
 
 ## Aussenborder Netzverteiler
 
